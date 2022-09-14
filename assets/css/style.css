@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(../Gambar/bg.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed ;
+    font-family: 'Poppins', sans-serif;
+
+}
