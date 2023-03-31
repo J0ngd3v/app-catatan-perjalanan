@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+    --background-color: #0d2538;
+    --text-color: #ffffff;
+    --link-color: #3592da;
+    --primary-color: #1da1f2;
+    --card-color: #0f2d44;
+    --white-color: #ffffff;
+    --border-color: #17354c;
+    --disabled-text-color: #ced8de;
+    --header-bg: #0f2d44;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(../Gambar/indo.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed ;
+    font-family: 'Poppins', sans-serif;
+
+}
